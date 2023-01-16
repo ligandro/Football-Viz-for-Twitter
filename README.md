@@ -27,7 +27,7 @@ Most of the code and concepts that I have learned in this field has been from th
         <li><a href="#13---xG-vS-g">13-xG VS G</a></li>
         <li><a href="#18---touch-locations">18- Touch Locations</a></li>
         <li><a href="#22---goals-timeline<">22-Goals Timeline</a></li>
-        <li><a href="#23--long-goalkicks">23- % Long Goalkicks</a></li>
+        <li><a href="#23---long-goalkicks">23- % Long Goalkicks</a></li>
         <li><a href="#42---sOT">42-SOT</a></li>
         <li><a href="#05---automated-competition-reporting">9-xG Lollipop</a></li>
       </ul>
@@ -151,7 +151,7 @@ This helps us see when Arsenal tend to scored and concede during a time period i
   <img width="24%" src="./data_directory/misc_data/images/EPL-2022-opposition-half-passers-player-variant.png">
 </p>
 
-### 42---SOT
+### 42 - SOT
 
 **Summary:** Compare Shots on Target taken and conceded by teams in the Premier League using scatter plot.Good teams take SOT Taken and concede less SOT 
 
