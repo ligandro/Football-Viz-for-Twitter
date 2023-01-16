@@ -76,7 +76,7 @@ Project table of contents: <br>
 &nbsp; &nbsp; [05 - Automated Competition Reporting](#05---automated-competition-reporting)
 
 
-### 11 - Bars Shot On Target
+### 11 - Bars Shot Ontarget
 
 
 **Summary**: Use Fbref data to plot bars of shots taken by the 20 Premier League clubs in a season. Also shown is the percentage of shots on target. Good teams take a high no of shots and have a good percentage of them on target. Not a decisive measure of a team's attacking prowess but still
