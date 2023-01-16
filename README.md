@@ -25,7 +25,7 @@ Most of the code and concepts that I have learned in this field has been from th
       <ul>
         <li><a href="#11---bars-shot-on-target">11 -Bar , Shots (On target %)</a></li>
         <li><a href="#13---xG-vS-g">13-xG VS G</a></li>
-        <li><a href="#04---automated-match-reporting">18- Touch Locations</a></li>
+        <li><a href="#18---touch-locations">18- Touch Locations</a></li>
         <li><a href="#05---automated-competition-reporting">22-Goals Timeline</a></li>
         <li><a href="#03---expected-goals-modelling">23- % Long Goalkicks</a></li>
         <li><a href="#04---automated-match-reporting">42-SOT</a></li>
@@ -53,9 +53,6 @@ This repository contains a projects that are used to generate posts for my Twitt
     |   ├── 42-SOT.ipynb
     |   ├── 9-xG Lollipop.ipynb
     │ 
-    ├── .gitignore 
-    │     
-    ├── LICENSE 
     │ 
     ├── README.md 
 
@@ -89,7 +86,7 @@ Project table of contents: <br>
 ### 11 - Bars Shot On Target
 
 
-**Summary**: Use Fbref data to plot bars of shots taken by the 20 Premier League clubs in a season. Also shown is the percentage of shots on target. Good teams take a high no of shots and have a good percentage of them on target. Not a decisive measure of a team's attacking prowess but still
+**Summary**: Use Fbref data to plot bars of shots taken by the 20 Premier League clubs in a season. Also shown is the percentage of shots on target. Good teams take a high no of shots and have a good percentage of them on target. Not a decisive measure of a team's attacking prowess but still provides a good statistical view.
 
 
 <p align="center">
@@ -99,8 +96,7 @@ Project table of contents: <br>
 </p>
 
 ### 13 - xG VS G
-*Summary:** Scrape team and player market value information from transfermarkt.co.uk. This work includes the development of a "scouting tool" that highlights players from a given league that have a favourable combination of Age and Goal Contribution per £m market value. The work also explores the use of statistical models to predict market value based on player performance, as well as identifies teams that under and over-performed (league position) based on squad value.
-**Summary:** Implementation and testing of basic expected goals probabilistic models. This work includes development and comparison of a logistic regression expected goals model and a neural network expected goals model, each trained off over 40000 shots taken across Europe's 'big five' leagues during the 2017/2018 season. The models are used to calculated expected goals for specific players, clubs and leagues over a specified time period.
+**Summary:** Scrape team shooting data from Fbref.com . Get xG,xGA,Goals Scored and Goals Conceded for the 20 Premier League Teams.xG and xGA are expected goals scored and expected goals conceded respectively. Comparing these two metrics with actual goals scored and conceded gives a performance measure of teams in the league. If the team scored more goals than expected it is said to be performing well. If less goals are conceded than expected then it is said to be performing better too. 
 
 <p align="center">
   <img width="35%" src="./data_directory/misc_data/images/xg_log_regression_model.png"> &nbsp &nbsp
@@ -113,9 +109,10 @@ Project table of contents: <br>
 </p>
 
 
-### 04 - Automated Match Reporting
+### 18- Touch Locations
 
-**Summary:** Development of automated scripts to produce match reports immediately after a match has concluded. This work includes collection and processing of public-domain match event data, and the production of multiple visuals that together constitute informative and appealing match reports. Visuals currently include shot maps, inter-zone passflows, pass plots and offensive action convex hulls.
+**Summary:** Scrape touches data from Fbref. Get total touches in final 3rd,Mid 3rd and Defensive 3rd for all 20 Premier League teams. Plot the numbers on mplsoccer pitch. Denote pitch areas by colour and annotate touches.
+
 
 <p align="center">
   <img width="35%" src="./data_directory/misc_data/images/EPL-2022-08-06-Tottenham-Southampton.png"> &nbsp &nbsp
