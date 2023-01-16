@@ -26,10 +26,10 @@ Most of the code and concepts that I have learned in this field has been from th
         <li><a href="#11---bars-shot-on-target">11 -Bar , Shots (On target %)</a></li>
         <li><a href="#13---xG-vS-g">13-xG VS G</a></li>
         <li><a href="#18---touch-locations">18- Touch Locations</a></li>
-        <li><a href="#22---goals-timeline<">22-Goals Timeline</a></li>
+        <li><a href="#22---goals-timeline">22-Goals Timeline</a></li>
         <li><a href="#23---long-goalkicks">23- % Long Goalkicks</a></li>
         <li><a href="#42---sOT">42-SOT</a></li>
-        <li><a href="#05---automated-competition-reporting">9-xG Lollipop</a></li>
+        <li><a href="#9---xG-lollipop">9-xG Lollipop</a></li>
       </ul>
     </li>
   </ol>
@@ -164,3 +164,14 @@ This helps us see when Arsenal tend to scored and concede during a time period i
   <img width="24%" src="./data_directory/misc_data/images/EPL-2022-opposition-half-passers-player-variant.png">
 </p>
 
+### 9 - xG Lollipop
+
+**Summary:** Plot shots taken in a match and xG of each shot accoring to time in match. Helps us see when teams are dominating in attack in a time period in match.
+<p align="center">
+  <img width="32%" src="./data_directory/misc_data/images/EPL-2021-top-defensive-actions-per-100-opposition-passes-in-that-third.png"> &nbsp &nbsp 
+  <img width="32%" src="./data_directory/misc_data/images/europe5-top-pen-takers-2019-2022.png">
+</p>
+<p align="center">
+  <img width="24%" src="./data_directory/misc_data/images/EPL-2022-defensive-contributions-player-variant.png"> &nbsp &nbsp 
+  <img width="24%" src="./data_directory/misc_data/images/EPL-2022-opposition-half-passers-player-variant.png">
+</p>
