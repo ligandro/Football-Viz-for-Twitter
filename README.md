@@ -1,10 +1,4 @@
 
-#### - Scraping Data From Understat : Get xG data from understat website as pandas dataframe by entering match id(from understat) , x and y locations of shots also included
-#### -  9 xG Lollipop : Using xG data from understat, create a xG timeline for both teams in a lollipop style
-#### - 11 - Bar,Shots(On target %) : Bar charts to show shots by each team and on target %
-#### - 16 xGOT Table, create a table to show xGOT and goals scored
-#### - 22 Show timeline on when Arsenal have scored thier goals this season
-#### - 26 Create Pizza Plots using MPL soccer 
 
 
 # Football Data Analytics
@@ -116,12 +110,7 @@ Project table of contents: <br>
 This helps us see when Arsenal tend to scored and concede during a time period in a match.
 
 <p align="center">
-  <img width="32%" src="./data_directory/misc_data/images/EPL-2021-top-defensive-actions-per-100-opposition-passes-in-that-third.png"> &nbsp &nbsp 
-  <img width="32%" src="./data_directory/misc_data/images/europe5-top-pen-takers-2019-2022.png">
-</p>
-<p align="center">
-  <img width="24%" src="./data_directory/misc_data/images/EPL-2022-defensive-contributions-player-variant.png"> &nbsp &nbsp 
-  <img width="24%" src="./data_directory/misc_data/images/EPL-2022-opposition-half-passers-player-variant.png">
+  <img width="32%" src="./images/22.png"> &nbsp &nbsp 
 </p>
 
 
@@ -130,35 +119,17 @@ This helps us see when Arsenal tend to scored and concede during a time period i
 **Summary:** Plot bars of the percentage of long goalkicks taken by each team in the Premier League.Helps us get an insight on how teams tend to build up play.
 
 <p align="center">
-  <img width="32%" src="./data_directory/misc_data/images/EPL-2021-top-defensive-actions-per-100-opposition-passes-in-that-third.png"> &nbsp &nbsp 
-  <img width="32%" src="./data_directory/misc_data/images/europe5-top-pen-takers-2019-2022.png">
+  <img width="32%" src="./images/23.png"> &nbsp &nbsp 
 </p>
-<p align="center">
-  <img width="24%" src="./data_directory/misc_data/images/EPL-2022-defensive-contributions-player-variant.png"> &nbsp &nbsp 
-  <img width="24%" src="./data_directory/misc_data/images/EPL-2022-opposition-half-passers-player-variant.png">
-</p>
-
 ### 42 - SOT
 
 **Summary:** Compare Shots on Target taken and conceded by teams in the Premier League using scatter plot.Good teams take SOT Taken and concede less SOT 
-
 <p align="center">
-  <img width="32%" src="./data_directory/misc_data/images/EPL-2021-top-defensive-actions-per-100-opposition-passes-in-that-third.png"> &nbsp &nbsp 
-  <img width="32%" src="./data_directory/misc_data/images/europe5-top-pen-takers-2019-2022.png">
+  <img width="32%" src="./images/42.png"> &nbsp &nbsp 
 </p>
-<p align="center">
-  <img width="24%" src="./data_directory/misc_data/images/EPL-2022-defensive-contributions-player-variant.png"> &nbsp &nbsp 
-  <img width="24%" src="./data_directory/misc_data/images/EPL-2022-opposition-half-passers-player-variant.png">
-</p>
-
 ### 9 - xG Lollipop
 
 **Summary:** Plot shots taken in a match and xG of each shot accoring to time in match. Helps us see when teams are dominating in attack in a time period in match.
 <p align="center">
-  <img width="32%" src="./data_directory/misc_data/images/EPL-2021-top-defensive-actions-per-100-opposition-passes-in-that-third.png"> &nbsp &nbsp 
-  <img width="32%" src="./data_directory/misc_data/images/europe5-top-pen-takers-2019-2022.png">
-</p>
-<p align="center">
-  <img width="24%" src="./data_directory/misc_data/images/EPL-2022-defensive-contributions-player-variant.png"> &nbsp &nbsp 
-  <img width="24%" src="./data_directory/misc_data/images/EPL-2022-opposition-half-passers-player-variant.png">
+  <img width="32%" src="./images/9.png"> &nbsp &nbsp 
 </p>
