@@ -23,7 +23,7 @@ Most of the code and concepts that I have learned in this field has been from th
     <li>
       <a href="#projects"> ➤ Projects</a>
       <ul>
-        <li><a href="#01---world-cup-2018-box-to-box-midfielder-analysis">01 - World Cup 2018 Box to Box Midfielder Analysis</a></li>
+        <li><a href="#11-Bar , Shots (On target %)">11-Bar , Shots (On target %)</a></li>
         <li><a href="#02---transfermarkt-web-scrape-and-analyse">02 - Transfermarkt Web-Scrape and Analyse</a></li>
         <li><a href="#03---expected-goals-modelling">03 - Expected Goals Modelling</a></li>
         <li><a href="#04---automated-match-reporting">04 - Automated Match Reporting</a></li>
@@ -76,9 +76,9 @@ Project table of contents: <br>
 &nbsp; &nbsp; [04 - Automated Match Reporting](#04---automated-match-reporting) <br>
 &nbsp; &nbsp; [05 - Automated Competition Reporting](#05---automated-competition-reporting)
 
-### 01 - World Cup 2018 Box to Box Midfielder Analysis
+### 11-Bar , Shots (On target %)
 
-**Summary**: Use Statsbomb data to define the most effective box to box midfielders at the 2018 World Cup. Throughout the work a number of custom metrics are used to score central midfielders in ball winning, ball retention & creativity, and mobility. A good box to box midfielder is defined as a central midfielder that excels in each of these areas. Of key interest in this work is the use of convex hulls as a proxy for player mobility / distance covered. The work also includes the development of a number of appealing visuals, as shown below.
+**Summary**: Use Fbref data to plot bars of shots taken by the 20 Premier League clubs in a season. Also shown is the percentage of shots on target. Good teams take a high no of shots and have a good percentage of them on target. Not a decisive measure of a team's attacking prowess but still
 
 <p align="center">
   <img width="29%" src="./data_directory/misc_data/images/top_12_progressive_passers.png"> &nbsp &nbsp 
