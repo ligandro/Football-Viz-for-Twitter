@@ -24,7 +24,7 @@ Most of the code and concepts that I have learned in this field has been from th
       <a href="#projects"> ➤ Projects</a>
       <ul>
         <li><a href="#11---bars-shot-on-target">11 -Bar , Shots (On target %)</a></li>
-        <li><a href="#13---xg-vs-g">13-xG VS G</a></li>
+        <li><a href="#13---xG-vS-g">13-xG VS G</a></li>
         <li><a href="#04---automated-match-reporting">18- Touch Locations</a></li>
         <li><a href="#05---automated-competition-reporting">22-Goals Timeline</a></li>
         <li><a href="#03---expected-goals-modelling">23- % Long Goalkicks</a></li>
@@ -98,7 +98,7 @@ Project table of contents: <br>
   <img width="25%" src="./data_directory/misc_data/images/GB2_value_league_table.png">
 </p>
 
-### 13-xG VS G
+### 13 - xG VS G
 *Summary:** Scrape team and player market value information from transfermarkt.co.uk. This work includes the development of a "scouting tool" that highlights players from a given league that have a favourable combination of Age and Goal Contribution per £m market value. The work also explores the use of statistical models to predict market value based on player performance, as well as identifies teams that under and over-performed (league position) based on squad value.
 **Summary:** Implementation and testing of basic expected goals probabilistic models. This work includes development and comparison of a logistic regression expected goals model and a neural network expected goals model, each trained off over 40000 shots taken across Europe's 'big five' leagues during the 2017/2018 season. The models are used to calculated expected goals for specific players, clubs and leagues over a specified time period.
 
