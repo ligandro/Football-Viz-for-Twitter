@@ -2,8 +2,8 @@
 
 
 # Football Data Analytics
-Collection of my football data analytics work that I showcase on twitter
-Most of the code and concepts that I have learned in this field has been from the amazing resources provided by the analytics community
+Collection of my football data analytics work that I showcase on twitter.
+Most of the code and concepts that I have learned in this field has been from the amazing resources provided by the football data analytics community.
 
 
 ## Contents
@@ -53,29 +53,10 @@ This repository contains a projects that are used to generate posts for my Twitt
 ## Workflow
 
 As shown in the folder structure above, the repository contains three key folders:
-- **data_directory**: Storage of raw football data used for projects.
-- **analysis_tools**: Custom python package containing modules that support football data import, processing, manipulation and visualisation.
-- **projects**: Series of projects that cover various elements of football data analytics. Also contains any template scripts used to import raw data from various football data APIs, websites or data services.
-
-In general, each project follows a number of logical steps:
-1. Create a folder within the Projects area to store files associated with the project.
-2. Use analysis_tools package: get_football_data module [note this module is not available within the git repo] to import raw data from football data API, website or data service:
-    * If imported dataset is large, save to data_directory area in compressed BZ2 format and create a new script for analysis.
-    * If imported dataset is small, data import and analysis can be completed in the same script (without the need to store/save data).
-3. Within the analysis script, import any required modules from the analysis_tools package.
-4. Pre-process and format data using data_engineering modules within the analysis_tools package.
-5. Synthesise additional information using custom_events and pitch_zones modules within the analysis_tools package.
-6. With data formatted appropriately, create visuals and generate insight for end-consumer.
+- **images**: final vizzes
+- **projects**: List of projects that cover various elements of football data analytics for Twitter.
 
 ## Projects
-
-Project table of contents: <br>
-&nbsp; &nbsp; [01 - World Cup 2018 Box to Box Midfielder Analysis](#01---world-cup-2018-box-to-box-midfielder-analysis) <br>
-&nbsp; &nbsp; [02 - Transfermarkt Web-Scrape and Analyse](#02---transfermarkt-web-scrape-and-analyse) <br>
-&nbsp; &nbsp; [03 - Expected Goals Modelling](#03---expected-goals-modelling) <br>
-&nbsp; &nbsp; [04 - Automated Match Reporting](#04---automated-match-reporting) <br>
-&nbsp; &nbsp; [05 - Automated Competition Reporting](#05---automated-competition-reporting)
-
 
 ### 11 - Bars Shot On Target
 
