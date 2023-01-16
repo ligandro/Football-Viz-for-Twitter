@@ -1,7 +1,4 @@
-# Football
-## Mini Football Related Data Analysis and Visualizations by me used on Twiiter
-![twitter-logo-vector-png-clipart-1](https://user-images.githubusercontent.com/97714265/209472007-6779e1dc-2222-4210-890f-c41b53894766.png)
-https://twitter.com/Ligandro22
+
 #### - Scraping Data From Understat : Get xG data from understat website as pandas dataframe by entering match id(from understat) , x and y locations of shots also included
 #### -  9 xG Lollipop : Using xG data from understat, create a xG timeline for both teams in a lollipop style
 #### - 11 - Bar,Shots(On target %) : Bar charts to show shots by each team and on target %
@@ -37,9 +34,8 @@ Most of the code and concepts that I have learned in this field has been from th
 </details>
 
 ## Introduction
-This repository contains a collection of tools, projects and resources that aim to support the generation of meaningful insight from football data. Python is used for extraction, processing, analysis and visualisation of event data, aggregated team data, market value data and more. The repository is broken down into mutliple projects and sub-projects, each of which aims to either perform a specific analysis, generate some specific insight, or introduce some level of automation to football data analytics. Using the contents of this repository, a number of novel & informative visuals and text threads have been created and shared with the football data analytics community via Twitter [(@_JKDS_)](https://twitter.com/_JKDS_).
+This repository contains a projects that are used to generate posts for my Twitter Account.Python is used for extraction,scraping,data pre-processing, analysis and visualisation. Libraries used are beautiful soup,matplotlib,pandas etc. These mini projects have helped me to understand data better and apply it to my field of interest which is Football. Check out my Twitter [(@Ligandro22_)](https://twitter.com/Ligandro22).
 
-To support others who are wishing to develop their data analytics skills within the context of football data, I have produced a Getting Started Guide
 
 ## Folder Structure
 
