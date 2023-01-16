@@ -26,9 +26,9 @@ Most of the code and concepts that I have learned in this field has been from th
         <li><a href="#11---bars-shot-on-target">11 -Bar , Shots (On target %)</a></li>
         <li><a href="#13---xG-vS-g">13-xG VS G</a></li>
         <li><a href="#18---touch-locations">18- Touch Locations</a></li>
-        <li><a href="#05---automated-competition-reporting">22-Goals Timeline</a></li>
-        <li><a href="#03---expected-goals-modelling">23- % Long Goalkicks</a></li>
-        <li><a href="#04---automated-match-reporting">42-SOT</a></li>
+        <li><a href="#22---goals-timeline<">22-Goals Timeline</a></li>
+        <li><a href="#23--long-goalkicks">23- % Long Goalkicks</a></li>
+        <li><a href="#42---sOT">42-SOT</a></li>
         <li><a href="#05---automated-competition-reporting">9-xG Lollipop</a></li>
       </ul>
     </li>
@@ -109,7 +109,7 @@ Project table of contents: <br>
 </p>
 
 
-### 18- Touch Locations
+### 18 - Touch Locations
 
 **Summary:** Scrape touches data from Fbref. Get total touches in final 3rd,Mid 3rd and Defensive 3rd for all 20 Premier League teams. Plot the numbers on mplsoccer pitch. Denote pitch areas by colour and annotate touches.
 
@@ -123,9 +123,10 @@ Project table of contents: <br>
   <img width="29.55%" src="./data_directory/misc_data/images/EPL-1640709-Liverpool-Bournemouth-passreport_Liverpool.png"> &nbsp &nbsp
 </p>
 
-### 05 - Automated Competition Reporting
+### 22 - Goals Timeline
 
-**Summary:** Development of automated scripts to produce competition reports and multi-match player evaluations at any point throughout a competition. This work includes collection and processing of public-domain match event data, and the production of multiple visuals that generate novel and meaningful insight at a team and player level. Visuals currently include an assessment of progressive passes, defensive actions and penalty placement.
+**Summary:** Get Arsenal Team Data from Understat and plot no of goals scored and conceded distributed over the 90mins divided into 15 min brackets.
+This helps us see when Arsenal tend to scored and concede during a time period in a match.
 
 <p align="center">
   <img width="32%" src="./data_directory/misc_data/images/EPL-2021-top-defensive-actions-per-100-opposition-passes-in-that-third.png"> &nbsp &nbsp 
@@ -135,3 +136,31 @@ Project table of contents: <br>
   <img width="24%" src="./data_directory/misc_data/images/EPL-2022-defensive-contributions-player-variant.png"> &nbsp &nbsp 
   <img width="24%" src="./data_directory/misc_data/images/EPL-2022-opposition-half-passers-player-variant.png">
 </p>
+
+
+### 23 - Long Goalkicks
+
+**Summary:** Plot bars of the percentage of long goalkicks taken by each team in the Premier League.Helps us get an insight on how teams tend to build up play.
+
+<p align="center">
+  <img width="32%" src="./data_directory/misc_data/images/EPL-2021-top-defensive-actions-per-100-opposition-passes-in-that-third.png"> &nbsp &nbsp 
+  <img width="32%" src="./data_directory/misc_data/images/europe5-top-pen-takers-2019-2022.png">
+</p>
+<p align="center">
+  <img width="24%" src="./data_directory/misc_data/images/EPL-2022-defensive-contributions-player-variant.png"> &nbsp &nbsp 
+  <img width="24%" src="./data_directory/misc_data/images/EPL-2022-opposition-half-passers-player-variant.png">
+</p>
+
+### 42---SOT
+
+**Summary:** Compare Shots on Target taken and conceded by teams in the Premier League using scatter plot.Good teams take SOT Taken and concede less SOT 
+
+<p align="center">
+  <img width="32%" src="./data_directory/misc_data/images/EPL-2021-top-defensive-actions-per-100-opposition-passes-in-that-third.png"> &nbsp &nbsp 
+  <img width="32%" src="./data_directory/misc_data/images/europe5-top-pen-takers-2019-2022.png">
+</p>
+<p align="center">
+  <img width="24%" src="./data_directory/misc_data/images/EPL-2022-defensive-contributions-player-variant.png"> &nbsp &nbsp 
+  <img width="24%" src="./data_directory/misc_data/images/EPL-2022-opposition-half-passers-player-variant.png">
+</p>
+
