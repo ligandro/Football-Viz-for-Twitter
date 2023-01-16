@@ -23,7 +23,6 @@ Most of the code and concepts that I have learned in this field has been from th
     <li>
       <a href="#projects"> ➤ Projects</a>
       <ul>
-        <li><a href="#1---Liga">11-Bar , Shots (On target %)</a></li>
         <li><a href="#02---transfermarkt-web-scrape-and-analyse">02 - Transfermarkt Web-Scrape and Analyse</a></li>
         <li><a href="#03---expected-goals-modelling">03 - Expected Goals Modelling</a></li>
         <li><a href="#04---automated-match-reporting">04 - Automated Match Reporting</a></li>
@@ -88,6 +87,8 @@ Project table of contents: <br>
 
 ### 02 - Transfermarkt Web-Scrape and Analyse
 
+
+**Summary**: Use Fbref data to plot bars of shots taken by the 20 Premier League clubs in a season. Also shown is the percentage of shots on target. Good teams take a high no of shots and have a good percentage of them on target. Not a decisive measure of a team's attacking prowess but still
 **Summary:** Scrape team and player market value information from transfermarkt.co.uk. This work includes the development of a "scouting tool" that highlights players from a given league that have a favourable combination of Age and Goal Contribution per £m market value. The work also explores the use of statistical models to predict market value based on player performance, as well as identifies teams that under and over-performed (league position) based on squad value.
 
 <p align="center">
