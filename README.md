@@ -23,7 +23,7 @@ Most of the code and concepts that I have learned in this field has been from th
     <li>
       <a href="#projects"> ➤ Projects</a>
       <ul>
-        <li><a href="#11---bars-shot(on-target%)">11 -Bar , Shots (On target %)</a></li>
+        <li><a href="#11---bars-shot-ontarget)">11 -Bar , Shots (On target %)</a></li>
         <li><a href="#03---expected-goals-modelling">03 - Expected Goals Modelling</a></li>
         <li><a href="#04---automated-match-reporting">04 - Automated Match Reporting</a></li>
         <li><a href="#05---automated-competition-reporting">05 - Automated Competition Reporting</a></li>
@@ -76,7 +76,7 @@ Project table of contents: <br>
 &nbsp; &nbsp; [05 - Automated Competition Reporting](#05---automated-competition-reporting)
 
 
-### 11 - Bars Shot(on target%)
+### 11 - Bars Shot On Target
 
 
 **Summary**: Use Fbref data to plot bars of shots taken by the 20 Premier League clubs in a season. Also shown is the percentage of shots on target. Good teams take a high no of shots and have a good percentage of them on target. Not a decisive measure of a team's attacking prowess but still
