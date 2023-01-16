@@ -39,61 +39,10 @@ This repository contains a projects that are used to generate posts for my Twitt
 
 ## Folder Structure
 
-    football-data-analytics
+    Football-Viz-for-Twitter
     │
-    ├── analysis_tools
-    │   ├── __init__.py
-    │   ├── get_football_data.py [not included in git repo]
-    │   ├── logos_and_badges.py
-    │   ├── pitch_zones.py
-    │   ├── statsbomb_custom_events.py
-    │   ├── statsbomb_data_engineering.py
-    │   ├── whoscored_custom_events.py
-    │   ├── whoscored_data_engineering.py
-    │   ├── wyscout_data_engineering.py   
-    │ 
-    ├── data_directory
-    │   ├── misc_data
-    │   │   ├── images
-    │   │   │   ├── ___.png
-    │   │   ├── log_regression_xg_data.pbz2
-    │   │   ├── neural_net_xg_data.pbz2
-    │   │   ├── worldcup_2010_to_2018_distcovered.xlsx
-    │   ├── statsbomb_data [not included in git repo]
-    │   ├── transfermarkt_data
-    │   ├── whoscored_data [not included in git repo]
-    │   ├── wyscout_data
-    │
-    ├── projects
-    │   ├── 00_misc_work
-    │   │   ├── saudi_arabia_argentina_world_cup_def_actions.py 
-    │   ├── 01_worldcup_b2b_midfielders
-    │   │   ├── import_data_statsbomb.py
-    │   │   ├── worldcup_b2b_mids.py
-    │   ├── 02_transfermarkt_scrape_and_analyse
-    │   │   ├── championship_forward_value_analysis.py
-    │   │   ├── premierleague_forward_value_analysis.py
-    │   │   ├── scrape_data_transfermarkt.py
-    │   ├── 03_xg_model
-    │   │   ├── shot_xg_plot.py
-    │   │   ├── xg_log_regression_model.py
-    │   │   ├── xg_neural_network.py  
-    │   ├── 04_match_reports
-    │   │   ├── import_data_whoscored.py
-    │   │   ├── pass_report_ws.py
-    │   │   ├── shot_report_understat.py     
-    │   ├── 05_competition_reports
-    │   │   ├── player_defensive_contribution.py
-    │   │   ├── player_effective_carriers.py
-    │   │   ├── player_effective_passers.py
-    │   │   ├── player_high_defensive_actions.py    
-    │   │   ├── player_penalty_takers.py
-    │   │   ├── player_threat_creators.py
-    │   │   ├── team_ball_winning.py
-    │   │   ├── team_fullback_combinations.py
-    │   │   ├── team_threat_creation.py
-    │   ├── 06_player_reports
-    │   │   ├── ws_full_back_report.py
+    ├── Projects
+    │   ├── 11-Bar , Shots (On target %).ipynb
     │ 
     ├── .gitignore 
     │     
