@@ -23,7 +23,7 @@ Most of the code and concepts that I have learned in this field has been from th
     <li>
       <a href="#projects"> ➤ Projects</a>
       <ul>
-        <li><a href="#02---transfermarkt-web-scrape-and-analyse">02 - Transfermarkt Web-Scrape and Analyse</a></li>
+        <li><a href="#11---transfermarkt-web-scrape-and-analyse">02 - Transfermarkt Web-Scrape and Analyse</a></li>
         <li><a href="#03---expected-goals-modelling">03 - Expected Goals Modelling</a></li>
         <li><a href="#04---automated-match-reporting">04 - Automated Match Reporting</a></li>
         <li><a href="#05---automated-competition-reporting">05 - Automated Competition Reporting</a></li>
@@ -75,15 +75,6 @@ Project table of contents: <br>
 &nbsp; &nbsp; [04 - Automated Match Reporting](#04---automated-match-reporting) <br>
 &nbsp; &nbsp; [05 - Automated Competition Reporting](#05---automated-competition-reporting)
 
-### 11-Bar , Shots (On target %)
-
-**Summary**: Use Fbref data to plot bars of shots taken by the 20 Premier League clubs in a season. Also shown is the percentage of shots on target. Good teams take a high no of shots and have a good percentage of them on target. Not a decisive measure of a team's attacking prowess but still
-
-<p align="center">
-  <img width="29%" src="./data_directory/misc_data/images/top_12_progressive_passers.png"> &nbsp &nbsp 
-  <img width="29%" src="./data_directory/misc_data/images/top_12_pressers.png"> &nbsp &nbsp
-  <img width="29%" src="./data_directory/misc_data/images/top_12_action_distribution.png">
-</p>
 
 ### 02 - Transfermarkt Web-Scrape and Analyse
 
