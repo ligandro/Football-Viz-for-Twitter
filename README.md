@@ -110,7 +110,7 @@ Project table of contents: <br>
 This helps us see when Arsenal tend to scored and concede during a time period in a match.
 
 <p align="center">
-  <img width="32%" src="./images/22.png"> &nbsp &nbsp 
+  <img width="40%" src="./images/22.png"> &nbsp &nbsp 
 </p>
 
 
@@ -119,17 +119,17 @@ This helps us see when Arsenal tend to scored and concede during a time period i
 **Summary:** Plot bars of the percentage of long goalkicks taken by each team in the Premier League.Helps us get an insight on how teams tend to build up play.
 
 <p align="center">
-  <img width="32%" src="./images/23.png"> &nbsp &nbsp 
+  <img width="40%" src="./images/23.png"> &nbsp &nbsp 
 </p>
 ### 42 - SOT
 
 **Summary:** Compare Shots on Target taken and conceded by teams in the Premier League using scatter plot.Good teams take SOT Taken and concede less SOT 
 <p align="center">
-  <img width="32%" src="./images/42.png"> &nbsp &nbsp 
+  <img width="40%" src="./images/42.png"> &nbsp &nbsp 
 </p>
 ### 9 - xG Lollipop
 
 **Summary:** Plot shots taken in a match and xG of each shot accoring to time in match. Helps us see when teams are dominating in attack in a time period in match.
 <p align="center">
-  <img width="32%" src="./images/9.png"> &nbsp &nbsp 
+  <img width="40%" src="./images/9.png"> &nbsp &nbsp 
 </p>
