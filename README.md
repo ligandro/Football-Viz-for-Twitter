@@ -22,8 +22,8 @@ Most of the code and concepts that I have learned in this field has been from th
         <li><a href="#18---touch-locations">18- Touch Locations</a></li>
         <li><a href="#22---goals-timeline">22-Goals Timeline</a></li>
         <li><a href="#23---long-goalkicks">23- % Long Goalkicks</a></li>
+        <li><a href="#34---xT">34-xT 2</a></li>
         <li><a href="#42---sOT">42-SOT</a></li>
-        <li><a href="#9---xG-lollipop">9-xG Lollipop</a></li>
       </ul>
     </li>
   </ol>
@@ -103,6 +103,14 @@ This helps us see when Arsenal tend to scored and concede during a time period i
   <img width="40%" src="./images/23.png"> &nbsp &nbsp 
 </p>
 
+
+### 34 - xT
+
+**Summary:** Scatter Plot of players in Europe's Big 5 Leagues with x axis representing threat from passses and y axis representing threat from carries.
+<p align="center">
+  <img width="40%" src="./images/34.png"> &nbsp &nbsp 
+</p>
+
 ### 42 - SOT
 
 **Summary:** Compare Shots on Target taken and conceded by teams in the Premier League using scatter plot.Good teams take SOT Taken and concede less SOT 
@@ -110,9 +118,3 @@ This helps us see when Arsenal tend to scored and concede during a time period i
   <img width="40%" src="./images/42.png"> &nbsp &nbsp 
 </p>
 
-### 9 - xG Lollipop
-
-**Summary:** Plot shots taken in a match and xG of each shot accoring to time in match. Helps us see when teams are dominating in attack in a time period in match.
-<p align="center">
-  <img width="40%" src="./images/9.png"> &nbsp &nbsp 
-</p>
