@@ -45,7 +45,6 @@ This repository contains a projects that are used to generate posts for my Twitt
     |   ├── 23- % Long Goalkicks .ipynb
     |   ├── 34-xT 2.ipynb
     |   ├── 42-SOT.ipynb
-    |   ├── 9-xG Lollipop.ipynb
     │ 
     │ 
     ├── README.md 
