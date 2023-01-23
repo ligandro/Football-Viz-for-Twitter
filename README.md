@@ -22,10 +22,10 @@ Most of the code and concepts that I have learned in this field has been from th
         <li><a href="#18---touch-locations">18- Touch Locations</a></li>
         <li><a href="#22---goals-timeline">22-Goals Timeline</a></li>
         <li><a href="#23---long-goalkicks">23- % Long Goalkicks</a></li>
-        <li><a href="#33---oVA">34-xT 2</a></li>
+        <li><a href="#33---oVA">33-OVA</a></li>
         <li><a href="#34---xT">34-xT 2</a></li>
         <li><a href="#42---sOT">42-SOT</a></li>
-        <li><a href="#53---gD-time">42-SOT</a></li>
+        <li><a href="#53---gD-time">53-GD Time</a></li>
       </ul>
     </li>
   </ol>
