@@ -22,8 +22,10 @@ Most of the code and concepts that I have learned in this field has been from th
         <li><a href="#18---touch-locations">18- Touch Locations</a></li>
         <li><a href="#22---goals-timeline">22-Goals Timeline</a></li>
         <li><a href="#23---long-goalkicks">23- % Long Goalkicks</a></li>
+        <li><a href="#33---oVA">34-xT 2</a></li>
         <li><a href="#34---xT">34-xT 2</a></li>
         <li><a href="#42---sOT">42-SOT</a></li>
+        <li><a href="#53---gD-time">42-SOT</a></li>
       </ul>
     </li>
   </ol>
@@ -103,6 +105,14 @@ This helps us see when Arsenal tend to scored and concede during a time period i
 </p>
 
 
+### 33 - OVA
+
+**Summary:** Bars of top 10 players with highest offensive value added in Ligue 1
+<p align="center">
+  <img width="40%" src="./images/33.png"> &nbsp &nbsp 
+</p>
+
+
 ### 34 - xT
 
 **Summary:** Scatter Plot of players in Europe's Big 5 Leagues with x axis representing threat from passses and y axis representing threat from carries.
@@ -116,4 +126,12 @@ This helps us see when Arsenal tend to scored and concede during a time period i
 <p align="center">
   <img width="40%" src="./images/42.png"> &nbsp &nbsp 
 </p>
+
+### 53 - GD Time
+
+**Summary:** Distribution of goals scored and conceded for a PL Team according to 15 min time scales
+<p align="center">
+  <img width="40%" src="./images/53.png"> &nbsp &nbsp 
+</p>
+
 
