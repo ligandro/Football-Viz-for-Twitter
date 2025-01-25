@@ -16,7 +16,7 @@ Collection of my football data analytics work that I showcase on twitter.
       <a href="#Work"> ➤ Work</a>
       <ul>
         <li><a href="#1---scraping-from-understat">1 - Scraping from Understat</a></li>
-        <li><a href="#2---xG-vS-g">13-xG VS G</a></li>
+        <li><a href="#2---xG-vS-xAG">2-xG VS xAG</a></li>
         <li><a href="#3---touch-locations">18- Touch Locations</a></li>
         <li><a href="#4---goals-timeline">22-Goals Timeline</a></li>
         <li><a href="#5---long-goalkicks">23- % Long Goalkicks</a></li>
@@ -39,11 +39,11 @@ This repository contains a projects that are used to generate posts for my Twitt
 **Summary**: Get match related Data from Understat using Beautiful Soup and then preprocessing data using Pandas
 
 
-### 2 - xG VS G
-**Summary:** Scrape team shooting data from Fbref.com . Get xG,xGA,Goals Scored and Goals Conceded for the 20 Premier League Teams.xG and xGA are expected goals scored and expected goals conceded respectively. Comparing these two metrics with actual goals scored and conceded gives a performance measure of teams in the league. If the team scored more goals than expected it is said to be performing well. If less goals are conceded than expected then it is said to be performing better too. 
+### 2 - xG VS xAG
+**Summary:** Get Premier league Data from Understat for the current season. Get xG and xGA for the 20 Premier League Teams. xG and xGA are expected goals scored and expected goals conceded respectively. Create a scatter plot using these two metrics.
 
 <p align="center">
-  <img width="35%" src="./images/13.png"> &nbsp &nbsp
+  <img width="35%" src="./images/2.jpg"> &nbsp &nbsp
 </p>
 
 
@@ -98,6 +98,8 @@ This helps us see when Arsenal tend to scored and concede during a time period i
 </p>
 
 ### 9 - GD Time
+ Comparing these two metrics with actual goals scored and conceded gives a performance measure of teams in the league. If the team scored more goals than expected it is said to be performing well. If less goals are conceded than expected then it is said to be performing better too. 
+
 
 **Summary:** Distribution of goals scored and conceded for a PL Team according to 15 min time scales
 <p align="center">
