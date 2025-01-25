@@ -15,7 +15,7 @@ Collection of my football data analytics work that I showcase on twitter.
     <li>
       <a href="#Work"> ➤ Work</a>
       <ul>
-        <li><a href="#1---scraping-from-understat">1 - Scraping from Understat, Shots (On target %)</a></li>
+        <li><a href="#1---scraping-from-understat">1 - Scraping from Understat</a></li>
         <li><a href="#2---xG-vS-g">13-xG VS G</a></li>
         <li><a href="#3---touch-locations">18- Touch Locations</a></li>
         <li><a href="#4---goals-timeline">22-Goals Timeline</a></li>
@@ -34,7 +34,7 @@ This repository contains a projects that are used to generate posts for my Twitt
 
 ## Work
 
-### 1 - Scraping from Understat.ipynb
+### 1 - Scraping from Understat
 
 **Summary**: Get match related Data from Understat using Beautiful Soup and then preprocessing data using Pandas
 
