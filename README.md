@@ -3,7 +3,7 @@
 
 # Football Data Analytics
 Collection of my football data analytics work that I showcase on twitter.
-Most of the code and concepts that I have learned in this field has been from the amazing resources provided by the football data analytics community.
+- I started looking into Football Data Analysis as a way to practise my Python and Data Analysis skill when I was in my undergrad. It helped me develop my coding skills and allowed me to explore more about the sport I love the most. Most of the code and concepts that I have learned in this field has been from the amazing resources provided by the football data analytics community. You can use these to practise your skills and make your own visualisations. 
 
 
 ## Contents
