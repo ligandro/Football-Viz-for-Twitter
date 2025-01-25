@@ -13,7 +13,6 @@ Most of the code and concepts that I have learned in this field has been from th
   <ol>
     <li><a href="#introduction"> ➤ Introduction</a></li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
-    <li><a href="#workflow"> ➤ Workflow</a></li>
     <li>
       <a href="#projects"> ➤ Projects</a>
       <ul>
@@ -51,15 +50,9 @@ This repository contains a projects that are used to generate posts for my Twitt
     │ 
     ├── README.md 
 
-## Workflow
-
-As shown in the folder structure above, the repository contains three key folders:
-- **images**: final vizzes
-- **projects**: List of projects that cover various elements of football data analytics for Twitter.
-
 ## Projects
 
-### 11 - Bars Shot On Target
+### 1 - Bars Shot On Target
 
 
 **Summary**: Use Fbref data to plot bars of shots taken by the 20 Premier League clubs in a season. Also shown is the percentage of shots on target. Good teams take a high no of shots and have a good percentage of them on target. Not a decisive measure of a team's attacking prowess but still provides a good statistical view.
@@ -69,7 +62,7 @@ As shown in the folder structure above, the repository contains three key folder
   <img width="25%" src="./images/11.png"> &nbsp &nbsp
 </p>
 
-### 13 - xG VS G
+### 2 - xG VS G
 **Summary:** Scrape team shooting data from Fbref.com . Get xG,xGA,Goals Scored and Goals Conceded for the 20 Premier League Teams.xG and xGA are expected goals scored and expected goals conceded respectively. Comparing these two metrics with actual goals scored and conceded gives a performance measure of teams in the league. If the team scored more goals than expected it is said to be performing well. If less goals are conceded than expected then it is said to be performing better too. 
 
 <p align="center">
@@ -77,7 +70,7 @@ As shown in the folder structure above, the repository contains three key folder
 </p>
 
 
-### 18 - Touch Locations
+### 3 - Touch Locations
 
 **Summary:** Scrape touches data from Fbref. Get total touches in final 3rd,Mid 3rd and Defensive 3rd for all 20 Premier League teams. Plot the numbers on mplsoccer pitch. Denote pitch areas by colour and annotate touches.
 
@@ -86,7 +79,7 @@ As shown in the folder structure above, the repository contains three key folder
   <img width="35%" src="./images/18.png"> &nbsp &nbsp
 </p>
 
-### 22 - Goals Timeline
+### 4 - Goals Timeline
 
 **Summary:** Get Arsenal Team Data from Understat and plot no of goals scored and conceded distributed over the 90mins divided into 15 min brackets.
 This helps us see when Arsenal tend to scored and concede during a time period in a match.
@@ -96,7 +89,7 @@ This helps us see when Arsenal tend to scored and concede during a time period i
 </p>
 
 
-### 23 - Long Goalkicks
+### 5 - Long Goalkicks
 
 **Summary:** Plot bars of the percentage of long goalkicks taken by each team in the Premier League.Helps us get an insight on how teams tend to build up play.
 
@@ -105,7 +98,7 @@ This helps us see when Arsenal tend to scored and concede during a time period i
 </p>
 
 
-### 33 - OVA
+### 6 - OVA
 
 **Summary:** Bars of top 10 players with highest offensive value added in Ligue 1
 <p align="center">
@@ -113,21 +106,21 @@ This helps us see when Arsenal tend to scored and concede during a time period i
 </p>
 
 
-### 34 - xT
+### 7 - xT
 
 **Summary:** Scatter Plot of players in Europe's Big 5 Leagues with x axis representing threat from passses and y axis representing threat from carries.
 <p align="center">
   <img width="40%" src="./images/34.png"> &nbsp &nbsp 
 </p>
 
-### 42 - SOT
+### 8 - SOT
 
 **Summary:** Compare Shots on Target taken and conceded by teams in the Premier League using scatter plot.Good teams take SOT Taken and concede less SOT 
 <p align="center">
   <img width="40%" src="./images/42.png"> &nbsp &nbsp 
 </p>
 
-### 53 - GD Time
+### 9 - GD Time
 
 **Summary:** Distribution of goals scored and conceded for a PL Team according to 15 min time scales
 <p align="center">
