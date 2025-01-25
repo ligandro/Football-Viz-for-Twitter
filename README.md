@@ -17,7 +17,7 @@ Collection of my football data analytics work that I showcase on twitter.
       <ul>
         <li><a href="#1---scraping-from-understat">1 - Scraping from Understat</a></li>
         <li><a href="#2---xG-vS-xAG">2-xG VS xAG</a></li>
-        <li><a href="#3---touch-locations">18- Touch Locations</a></li>
+        <li><a href="#3---xG-vS-g">3 - xG VS G</a></li>
         <li><a href="#4---goals-timeline">22-Goals Timeline</a></li>
         <li><a href="#5---long-goalkicks">23- % Long Goalkicks</a></li>
         <li><a href="6---oVA">33-OVA</a></li>
@@ -47,13 +47,13 @@ This repository contains a projects that are used to generate posts for my Twitt
 </p>
 
 
-### 3 - Touch Locations
+### 3 - xG VS G
+**Summary:** Get Premier league Data from Understat for the current season. Get xG and G for the 20 Premier League Teams. Comparing expected goals with actual goals scored gives a performance measure of teams in the league. If the team scored more goals than expected it is said to be overperforming which is considered as good.
 
-**Summary:** Scrape touches data from Fbref. Get total touches in final 3rd,Mid 3rd and Defensive 3rd for all 20 Premier League teams. Plot the numbers on mplsoccer pitch. Denote pitch areas by colour and annotate touches.
 
 
 <p align="center">
-  <img width="35%" src="./images/18.png"> &nbsp &nbsp
+  <img width="35%" src="./images/3.jpg"> &nbsp &nbsp
 </p>
 
 ### 4 - Goals Timeline
