@@ -13,7 +13,7 @@ Collection of my football data analytics work that I showcase on twitter.
   <ol>
     <li><a href="#introduction"> ➤ Introduction</a></li>
     <li>
-      <a href="#projects"> ➤ Projects</a>
+      <a href="#Vizzes"> ➤ Projects</a>
       <ul>
         <li><a href="#1---bars-shot-on-target">1 -Bar , Shots (On target %)</a></li>
         <li><a href="#2---xG-vS-g">13-xG VS G</a></li>
@@ -32,7 +32,7 @@ Collection of my football data analytics work that I showcase on twitter.
 ## Introduction
 This repository contains a projects that are used to generate posts for my Twitter Account.Python is used for extraction,scraping,data pre-processing, analysis and visualisation. Libraries used are beautiful soup,matplotlib,pandas etc. These mini projects have helped me to understand data better and apply it to my field of interest which is Football. Check out my Twitter [(@Ligandro22_)](https://twitter.com/Ligandro22).
 
-## Projects
+## Vizzes
 
 ### 1 - Bars Shot On Target
 
