@@ -13,7 +13,7 @@ Collection of my football data analytics work that I showcase on twitter.
   <ol>
     <li><a href="#introduction"> ➤ Introduction</a></li>
     <li>
-      <a href="#Vizzes"> ➤ Projects</a>
+      <a href="#Vizzes"> ➤ Vizzes</a>
       <ul>
         <li><a href="#1---bars-shot-on-target">1 -Bar , Shots (On target %)</a></li>
         <li><a href="#2---xG-vS-g">13-xG VS G</a></li>
