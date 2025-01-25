@@ -12,19 +12,18 @@ Collection of my football data analytics work that I showcase on twitter.
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#introduction"> ➤ Introduction</a></li>
-    <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
     <li>
       <a href="#projects"> ➤ Projects</a>
       <ul>
-        <li><a href="#11---bars-shot-on-target">11 -Bar , Shots (On target %)</a></li>
-        <li><a href="#13---xG-vS-g">13-xG VS G</a></li>
-        <li><a href="#18---touch-locations">18- Touch Locations</a></li>
-        <li><a href="#22---goals-timeline">22-Goals Timeline</a></li>
-        <li><a href="#23---long-goalkicks">23- % Long Goalkicks</a></li>
-        <li><a href="#33---oVA">33-OVA</a></li>
-        <li><a href="#34---xT">34-xT 2</a></li>
-        <li><a href="#42---sOT">42-SOT</a></li>
-        <li><a href="#53---gD-time">53-GD Time</a></li>
+        <li><a href="#1---bars-shot-on-target">11 -Bar , Shots (On target %)</a></li>
+        <li><a href="#2---xG-vS-g">13-xG VS G</a></li>
+        <li><a href="#3---touch-locations">18- Touch Locations</a></li>
+        <li><a href="#4---goals-timeline">22-Goals Timeline</a></li>
+        <li><a href="#5---long-goalkicks">23- % Long Goalkicks</a></li>
+        <li><a href="6---oVA">33-OVA</a></li>
+        <li><a href="#7---xT">34-xT 2</a></li>
+        <li><a href="#8---sOT">42-SOT</a></li>
+        <li><a href="#9---gD-time">53-GD Time</a></li>
       </ul>
     </li>
   </ol>
