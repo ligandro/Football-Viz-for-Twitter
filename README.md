@@ -13,9 +13,9 @@ Collection of my football data analytics work that I showcase on twitter.
   <ol>
     <li><a href="#introduction"> ➤ Introduction</a></li>
     <li>
-      <a href="#Vizzes"> ➤ Vizzes</a>
+      <a href="#Work"> ➤ Work</a>
       <ul>
-        <li><a href="#1---bars-shot-on-target">1 -Bar , Shots (On target %)</a></li>
+        <li><a href="#1---scraping-from-understat">1 - Scraping from Understat, Shots (On target %)</a></li>
         <li><a href="#2---xG-vS-g">13-xG VS G</a></li>
         <li><a href="#3---touch-locations">18- Touch Locations</a></li>
         <li><a href="#4---goals-timeline">22-Goals Timeline</a></li>
@@ -32,17 +32,12 @@ Collection of my football data analytics work that I showcase on twitter.
 ## Introduction
 This repository contains a projects that are used to generate posts for my Twitter Account.Python is used for extraction,scraping,data pre-processing, analysis and visualisation. Libraries used are beautiful soup,matplotlib,pandas etc. These mini projects have helped me to understand data better and apply it to my field of interest which is Football. Check out my Twitter [(@Ligandro22_)](https://twitter.com/Ligandro22).
 
-## Vizzes
+## Work
 
-### 1 - Bars Shot On Target
+### 1 - Scraping from Understat.ipynb
 
+**Summary**: Get match related Data from Understat using Beautiful Soup and then preprocessing data using Pandas
 
-**Summary**: Use Fbref data to plot bars of shots taken by the 20 Premier League clubs in a season. Also shown is the percentage of shots on target. Good teams take a high no of shots and have a good percentage of them on target. Not a decisive measure of a team's attacking prowess but still provides a good statistical view.
-
-
-<p align="center">
-  <img width="25%" src="./images/11.png"> &nbsp &nbsp
-</p>
 
 ### 2 - xG VS G
 **Summary:** Scrape team shooting data from Fbref.com . Get xG,xGA,Goals Scored and Goals Conceded for the 20 Premier League Teams.xG and xGA are expected goals scored and expected goals conceded respectively. Comparing these two metrics with actual goals scored and conceded gives a performance measure of teams in the league. If the team scored more goals than expected it is said to be performing well. If less goals are conceded than expected then it is said to be performing better too. 
