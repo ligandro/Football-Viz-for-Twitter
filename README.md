@@ -66,7 +66,6 @@ This repository contains a projects that are used to generate posts for my Twitt
 **Summary:** Distribution of goals scored and conceded for a PL Team according to 15 min time scales. Data from Soccerstats
 
 <p align="center">
-  <img width="40%" src="./images/5.jpg"> &nbsp &nbsp 
+  <img width="40%" src="./images/4.jpg"> &nbsp &nbsp 
 </p>
-
 
