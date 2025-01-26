@@ -23,7 +23,7 @@ Collection of my football data analytics work that I showcase on twitter.
         <li><a href="#6---stats-table">6-Stats Table</a></li>
         <li><a href="#7---duel-zones">7-Duel Zones</a></li>
         <li><a href="#8---beeswarm-comparision">8-Beeswarm Comparision</a></li>
-        <li><a href="#p---player-radars">9-Player Radars</a></li>
+        <li><a href="#9---player-radars">9-Player Radars</a></li>
       </ul>
     </li>
   </ol>
