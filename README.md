@@ -5,7 +5,7 @@
 - I started looking into Football Data Analysis as a way to practise my Python and Data Analysis skills when I was in my undergrad. It helped me develop my coding skills and and apply it to my field of interest which is Football. Most of the code and concepts that I have learned in this field has been from the amazing resources provided by the football data analytics community. I have included code of some selected vizzes. Check out more of my on Twitter [(@Ligandro22_)](https://twitter.com/Ligandro22).
 
 <p align="center">
-  <img width="35%" src="./images/2.jpg"> &nbsp &nbsp
+  <img width="100%" src="./images/Main.jpg"> &nbsp &nbsp
 </p>
 
 ## Contents
