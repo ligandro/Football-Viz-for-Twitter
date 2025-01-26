@@ -19,11 +19,8 @@ Collection of my football data analytics work that I showcase on twitter.
         <li><a href="#2---xG-vS-xAG">2-xG VS xAG</a></li>
         <li><a href="#3---xG-vS-g">3 - xG VS G</a></li>
         <li><a href="#4---xT">4-xt</a></li>
-        <li><a href="#5---long-goalkicks">23- % Long Goalkicks</a></li>
-        <li><a href="6---oVA">33-OVA</a></li>
-        <li><a href="#7---xT">34-xT 2</a></li>
-        <li><a href="#8---sOT">42-SOT</a></li>
-        <li><a href="#9---gD-time">53-GD Time</a></li>
+        <li><a href="#5---gD-time">5
+-GD Time</a></li>
       </ul>
     </li>
   </ol>
@@ -58,25 +55,17 @@ This repository contains a projects that are used to generate posts for my Twitt
 
 ### 4 - xT
 
-**Summary:** Scatter Plot of players in Europe's Big 5 Leagues with x axis representing threat from passses and y axis representing threat from carries.
+**Summary:** Scatter Plot of players in the Premier League with x axis representing threat from passses and y axis representing threat from carries.
 <p align="center">
   <img width="40%" src="./images/4.jpg"> &nbsp &nbsp 
 </p>
 
-### 8 - SOT
 
-**Summary:** Compare Shots on Target taken and conceded by teams in the Premier League using scatter plot.Good teams take SOT Taken and concede less SOT 
+### 5- GD Time
+
+**Summary:** Distribution of goals scored and conceded for a PL Team according to 15 min time scales. Data from Soccerstats
 <p align="center">
-  <img width="40%" src="./images/42.png"> &nbsp &nbsp 
-</p>
-
-### 9 - GD Time
- Comparing these two metrics with actual goals scored and conceded gives a performance measure of teams in the league. If the team scored more goals than expected it is said to be performing well. If less goals are conceded than expected then it is said to be performing better too. 
-
-
-**Summary:** Distribution of goals scored and conceded for a PL Team according to 15 min time scales
-<p align="center">
-  <img width="40%" src="./images/53.png"> &nbsp &nbsp 
+  <img width="40%" src="./images/5.jpg"> &nbsp &nbsp 
 </p>
 
 
