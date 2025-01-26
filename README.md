@@ -23,6 +23,7 @@ Collection of my football data analytics work that I showcase on twitter.
         <li><a href="#6---stats-table">6-Stats Table</a></li>
         <li><a href="#7---duel-zones">7-Duel Zones</a></li>
         <li><a href="#8---beeswarm-comparision">8-Beeswarm Comparision</a></li>
+        <li><a href="#p---player-radars">9-Player Radars</a></li>
       </ul>
     </li>
   </ol>
@@ -95,5 +96,12 @@ This repository contains a projects that are used to generate posts for my Twitt
   <img width="40%" src="./images/8.jpg"> &nbsp &nbsp 
 </p>
 
+### 9 - Player Radars
+
+**Summary:** Create a position wise radar for player stats
+
+<p align="center">
+  <img width="40%" src="./images/9.jpg"> &nbsp &nbsp 
+</p>
 
 
