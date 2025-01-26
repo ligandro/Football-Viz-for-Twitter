@@ -18,7 +18,7 @@ Collection of my football data analytics work that I showcase on twitter.
         <li><a href="#1---scraping-from-understat">1 - Scraping from Understat</a></li>
         <li><a href="#2---xG-vS-xAG">2-xG VS xAG</a></li>
         <li><a href="#3---xG-vS-g">3 - xG VS G</a></li>
-        <li><a href="#4---goals-timeline">22-Goals Timeline</a></li>
+        <li><a href="#4---xT">4-xt</a></li>
         <li><a href="#5---long-goalkicks">23- % Long Goalkicks</a></li>
         <li><a href="6---oVA">33-OVA</a></li>
         <li><a href="#7---xT">34-xT 2</a></li>
@@ -56,11 +56,11 @@ This repository contains a projects that are used to generate posts for my Twitt
   <img width="35%" src="./images/3.jpg"> &nbsp &nbsp
 </p>
 
-### 7 - xT
+### 4 - xT
 
 **Summary:** Scatter Plot of players in Europe's Big 5 Leagues with x axis representing threat from passses and y axis representing threat from carries.
 <p align="center">
-  <img width="40%" src="./images/34.png"> &nbsp &nbsp 
+  <img width="40%" src="./images/4.jpg"> &nbsp &nbsp 
 </p>
 
 ### 8 - SOT
