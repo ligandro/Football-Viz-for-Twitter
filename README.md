@@ -87,7 +87,7 @@ This repository contains a projects that are used to generate posts for my Twitt
   <img width="40%" src="./images/7.jpg"> &nbsp &nbsp 
 </p>
 
-### 8 - Beeswar Comparision
+### 8 - Beeswarm Comparision
 
 **Summary:** Create a beeswarm plot to compare stats among two players.
 
