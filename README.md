@@ -22,6 +22,7 @@ Collection of my football data analytics work that I showcase on twitter.
         <li><a href="#5---gD-time">5-GD Time</a></li>
         <li><a href="#6---stats-table">6-Stats Table</a></li>
         <li><a href="#7---duel-zones">7-Duel Zones</a></li>
+        <li><a href="#8---beeswarm-comparision">8-Beeswarm Comparision</a></li>
       </ul>
     </li>
   </ol>
@@ -84,6 +85,14 @@ This repository contains a projects that are used to generate posts for my Twitt
 
 <p align="center">
   <img width="40%" src="./images/7.jpg"> &nbsp &nbsp 
+</p>
+
+### 8 - Beeswar Comparision
+
+**Summary:** Create a beeswarm plot to compare stats among two players.
+
+<p align="center">
+  <img width="40%" src="./images/8.jpg"> &nbsp &nbsp 
 </p>
 
 
