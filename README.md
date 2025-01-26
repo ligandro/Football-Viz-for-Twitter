@@ -19,8 +19,8 @@ Collection of my football data analytics work that I showcase on twitter.
         <li><a href="#2---xG-vS-xAG">2-xG VS xAG</a></li>
         <li><a href="#3---xG-vS-g">3 - xG VS G</a></li>
         <li><a href="#4---xT">4-xt</a></li>
-        <li><a href="#5---gD-time">5
--GD Time</a></li>
+        <li><a href="#5---gD-time">5-GD Time</a></li>
+        <li><a href="#6---stats-table">6-Stats Table</a></li>
       </ul>
     </li>
   </ol>
@@ -67,5 +67,13 @@ This repository contains a projects that are used to generate posts for my Twitt
 
 <p align="center">
   <img width="40%" src="./images/5.jpg"> &nbsp &nbsp 
+</p>
+
+### 6 - Stats Table
+
+**Summary:** Create a table showing the top 10 players for any stat
+
+<p align="center">
+  <img width="40%" src="./images/6.jpg"> &nbsp &nbsp 
 </p>
 
