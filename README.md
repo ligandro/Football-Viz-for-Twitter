@@ -2,8 +2,7 @@
 
 
 # Football Data Analytics
-Collection of my football data analytics work that I showcase on twitter.
-- I started looking into Football Data Analysis as a way to practise my Python and Data Analysis skill when I was in my undergrad. It helped me develop my coding skills and and apply it to my field of interest which is Football. Most of the code and concepts that I have learned in this field has been from the amazing resources provided by the football data analytics community. You can use these to practise your skills and make your own visualisations. 
+- I started looking into Football Data Analysis as a way to practise my Python and Data Analysis skills when I was in my undergrad. It helped me develop my coding skills and and apply it to my field of interest which is Football. Most of the code and concepts that I have learned in this field has been from the amazing resources provided by the football data analytics community. You can use these to practise your skills and make your own visualisations. Check out more of my on Twitter [(@Ligandro22_)](https://twitter.com/Ligandro22).
 
 
 ## Contents
@@ -31,7 +30,6 @@ Collection of my football data analytics work that I showcase on twitter.
 
 ## Introduction
 Python is used for extraction,scraping,data pre-processing, analysis and visualisation. Libraries used are beautiful soup,matplotlib,pandas etc. If you are not familiar with coding, I would highly suggest you to learn Python,Pandas,Matplotlib and some basic web scraping from youtube. After that you will find my code intuitive. 
-Check out my Twitter [(@Ligandro22_)](https://twitter.com/Ligandro22).
 
 ## Work
 
