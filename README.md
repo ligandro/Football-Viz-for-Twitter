@@ -56,33 +56,6 @@ This repository contains a projects that are used to generate posts for my Twitt
   <img width="35%" src="./images/3.jpg"> &nbsp &nbsp
 </p>
 
-### 4 - Goals Timeline
-
-**Summary:** Get Arsenal Team Data from Understat and plot no of goals scored and conceded distributed over the 90mins divided into 15 min brackets.
-This helps us see when Arsenal tend to scored and concede during a time period in a match.
-
-<p align="center">
-  <img width="40%" src="./images/22.png"> &nbsp &nbsp 
-</p>
-
-
-### 5 - Long Goalkicks
-
-**Summary:** Plot bars of the percentage of long goalkicks taken by each team in the Premier League.Helps us get an insight on how teams tend to build up play.
-
-<p align="center">
-  <img width="40%" src="./images/23.png"> &nbsp &nbsp 
-</p>
-
-
-### 6 - OVA
-
-**Summary:** Bars of top 10 players with highest offensive value added in Ligue 1
-<p align="center">
-  <img width="40%" src="./images/33.png"> &nbsp &nbsp 
-</p>
-
-
 ### 7 - xT
 
 **Summary:** Scatter Plot of players in Europe's Big 5 Leagues with x axis representing threat from passses and y axis representing threat from carries.
