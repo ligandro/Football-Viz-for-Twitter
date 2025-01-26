@@ -21,6 +21,7 @@ Collection of my football data analytics work that I showcase on twitter.
         <li><a href="#4---xT">4-xt</a></li>
         <li><a href="#5---gD-time">5-GD Time</a></li>
         <li><a href="#6---stats-table">6-Stats Table</a></li>
+        <li><a href="#7---duel-zones">7-Duel Zones</a></li>
       </ul>
     </li>
   </ol>
@@ -76,4 +77,14 @@ This repository contains a projects that are used to generate posts for my Twitt
 <p align="center">
   <img width="40%" src="./images/6.jpg"> &nbsp &nbsp 
 </p>
+
+### 7 - Duel Zones
+
+**Summary:** Create a pitch zone plot to see in which areas of the pitch a team is dominant in winning duels. 
+
+<p align="center">
+  <img width="40%" src="./images/7.jpg"> &nbsp &nbsp 
+</p>
+
+
 
