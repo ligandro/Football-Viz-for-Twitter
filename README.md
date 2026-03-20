@@ -45,7 +45,7 @@ Python is used for extraction,scraping,data pre-processing, analysis and visuali
 **Summary:** Get Premier league Data from Understat for the current season. Get xG and xGA for the 20 Premier League Teams. xG and xGA are expected goals scored and expected goals conceded respectively. Create a scatter plot using these two metrics.
 
 <p align="center">
-  <img width="35%" src="Data/images/2.jpg"> &nbsp &nbsp
+  <img width="35%" src="./data/images/2.jpg"> &nbsp &nbsp
 </p>
 
 
