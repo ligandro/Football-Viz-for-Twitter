@@ -45,7 +45,7 @@ Python is used for extraction,scraping,data pre-processing, analysis and visuali
 **Summary:** Get Premier league Data from Understat for the current season. Get xG and xGA for the 20 Premier League Teams. xG and xGA are expected goals scored and expected goals conceded respectively. Create a scatter plot using these two metrics.
 
 <p align="center">
-  <img width="35%" src="./images/2.jpg"> &nbsp &nbsp
+  <img width="35%" src="./data/images/2.jpg"> &nbsp &nbsp
 </p>
 
 
@@ -55,14 +55,14 @@ Python is used for extraction,scraping,data pre-processing, analysis and visuali
 
 
 <p align="center">
-  <img width="35%" src="./images/3.jpg"> &nbsp &nbsp
+  <img width="35%" src="./data/images/3.jpg"> &nbsp &nbsp
 </p>
 
 ### 4 - xT
 
 **Summary:** Scatter Plot of players in the Premier League with x axis representing threat from passses and y axis representing threat from carries.
 <p align="center">
-  <img width="40%" src="./images/4.jpg"> &nbsp &nbsp 
+  <img width="40%" src="./data/images/4.jpg"> &nbsp &nbsp 
 </p>
 
 
@@ -71,7 +71,7 @@ Python is used for extraction,scraping,data pre-processing, analysis and visuali
 **Summary:** Distribution of goals scored and conceded for a PL Team according to 15 min time scales. Data from Soccerstats
 
 <p align="center">
-  <img width="40%" src="./images/5.jpg"> &nbsp &nbsp 
+  <img width="40%" src="./data/images/5.jpg"> &nbsp &nbsp 
 </p>
 
 ### 6 - Stats Table
@@ -79,7 +79,7 @@ Python is used for extraction,scraping,data pre-processing, analysis and visuali
 **Summary:** Create a table showing the top 10 players for any stat
 
 <p align="center">
-  <img width="40%" src="./images/6.jpg"> &nbsp &nbsp 
+  <img width="40%" src="./data/images/6.jpg"> &nbsp &nbsp 
 </p>
 
 ### 7 - Duel Zones
@@ -87,7 +87,7 @@ Python is used for extraction,scraping,data pre-processing, analysis and visuali
 **Summary:** Create a pitch zone plot to see in which areas of the pitch a team is dominant in winning duels. 
 
 <p align="center">
-  <img width="40%" src="./images/7.jpg"> &nbsp &nbsp 
+  <img width="40%" src="./data/images/7.jpg"> &nbsp &nbsp 
 </p>
 
 ### 8 - Beeswarm Comparision
@@ -95,7 +95,7 @@ Python is used for extraction,scraping,data pre-processing, analysis and visuali
 **Summary:** Create a beeswarm plot to compare stats among two players.
 
 <p align="center">
-  <img width="40%" src="./images/8.jpg"> &nbsp &nbsp 
+  <img width="40%" src="./data/images/8.jpg"> &nbsp &nbsp 
 </p>
 
 ### 9 - Player Radars
@@ -103,7 +103,7 @@ Python is used for extraction,scraping,data pre-processing, analysis and visuali
 **Summary:** Create a position wise radar for player stats
 
 <p align="center">
-  <img width="40%" src="./images/9.jpg"> &nbsp &nbsp 
+  <img width="40%" src="./data/images/9.jpg"> &nbsp &nbsp 
 </p>
 
 
