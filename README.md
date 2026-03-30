@@ -100,6 +100,12 @@ Python is used for extraction,scraping,data pre-processing, analysis and visuali
   <img width="40%" src="Data/images/9.jpg"> &nbsp;&nbsp;
 </p>
 
+### 10- Poisson Match Simulation 
+**Notebook:** `Projects/Notebooks/10-plot_SimulateMatches.ipynb`
+**Summary:** Simulate football match results using a Poisson regression model.
+<p align="center">
+  <img width="40%" src="Data/images/10.png"> &nbsp;&nbsp;
+</p>
 ---
 
 ## Computer Vision Projects
